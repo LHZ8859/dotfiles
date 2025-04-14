@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lorenz.houze@gmail.com
+	name = Lorenz Houze
